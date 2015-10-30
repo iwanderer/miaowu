@@ -3,6 +3,6 @@ public class MainActivity {
 	System.out.println();
 	
 	for (int i = 0; i < 100; i++) 
-	    sysy
+	    system.out.print(i + " ");
     }
 }
